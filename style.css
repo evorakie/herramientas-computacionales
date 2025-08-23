@@ -2,7 +2,7 @@ html, body {
   font-family:Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
-  color: magenta
+
 }
 
 canvas {
@@ -29,7 +29,7 @@ ol{
 li{
   list-style: none;
   line-height: 2rem;
-  border-bottom:1px solid magenta;
+  border-bottom:1px solid silver;
   display:flex;
   padding:0.3rem 0;
 
