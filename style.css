@@ -16,7 +16,7 @@ div.texto{
   width:min(90vw, 800px);
   padding:1rem;
   text-align: left;
-  background:rgba(255,255,255,.10);
+  background:rgba(255,255,255,1);
   box-shadow: 0 0 5px rgba(0,0,0,.3);
   border-radius: 15px;
   backdrop-filter: blur(10px);
