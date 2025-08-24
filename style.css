@@ -2,7 +2,7 @@ html, body {
   font-family:Helvetica, Poppins, Arial, sans-serif;
   margin: 0;
   padding: 0;
-  color: rgba (133, 16, 74);
+  color: MediumVioletRed;
 
 }
 
@@ -30,7 +30,7 @@ ol{
 li{
   list-style: none;
   line-height: 2rem;
-  border-bottom:1px solid silver;
+  border-bottom:1px MediumVioletRed;
   display:flex;
   padding:0.3rem 0;
 
