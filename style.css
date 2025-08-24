@@ -25,13 +25,12 @@ div.texto{
 ol{
   margin:0;
   padding:0;
-  color: MediumVioletRed;
 }
 
 li{
   list-style: none;
   line-height: 2rem;
-  border-bottom:1px solid MediumVioletRed;
+  border-bottom:2px solid MediumVioletRed;
   display:flex;
   padding:0.3rem 0;
 
