@@ -31,7 +31,7 @@ ol{
 li{
   list-style: none;
   line-height: 2rem;
-  border-bottom:1px MediumVioletRed;
+  border-bottom:1px solid MediumVioletRed;
   display:flex;
   padding:0.3rem 0;
 
